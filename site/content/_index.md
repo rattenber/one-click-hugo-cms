@@ -1,7 +1,7 @@
 ---
 title: Die Heimat  der Baggerratten
 subtitle: 'Die Freizeitvolleyball-Abteilung des BTV Berliner Turner Verein 1850 '
-image: /img/home-jumbotron.jpg
+image: /img/volleyball-2582096_640.jpg
 blurb:
   heading: Training bei den Baggerratten?
   text: >-
@@ -39,20 +39,7 @@ intro:
 
     Wenn du interessiert bist, mit den Baggerratten zu trainieren und zu
     spielen, dann klicke jetzt bitte auf den Button „Kontakt“.
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+products: []
 values:
   heading: Trainingsort
   text: >-
